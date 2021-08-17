@@ -1,18 +1,22 @@
 Welcome to CE7454: Deep Learning for Data Science
  
-**Instructors**
+**Instructors
 Prof Li Boyang: 1-7
 Prof Liu Ziwei: 8-13
-Time
+
+**Time
 Thursday, 4:30 - 7:30 pm (from August 12)
-Prerequisite
+
+**Prerequisite
 Machine Learning (CE4041)
-Textbook
+
+**Textbook
 Deep Learning, by Ian Goodfellow and Yoshua Bengio and Aaron Courville:
 Deep Learning
 pdf version can be found here: https://github.com/janishar/mit-deep-learning-book-pdf
 Also attached.
-Lectures
+
+**Lectures
 Lecture 1 - Introduction to Deep Learning - Linear Algebra
 Lecture 2 - Probability and Information Theory
 Lecture 3 - Vanilla Neural Networks - Loss and Optimization
@@ -27,7 +31,8 @@ Lecture 10 - Deep Structured Prediction
 Lecture 11 - Autoencoders
 Lecture 12 - Deep Generative Models
 Lecture 13 - Unsupervised Representation Learning
-Evaluation
+
+**Evaluation
 Quiz (20%): deep learning basics - 30min 
 (date: recess week)
 
