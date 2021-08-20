@@ -1,62 +1,20 @@
-# CE7454
-Welcome to CE7454: Deep Learning for Data Science
-Prof Li Boyang: 1-7
-Prof Liu Ziwei: 8-13
+## Deep-Learning-Time-Series-Forecasting
+This topic comes from industrial research collaboration initiative between Becton Dickinson (BD) and NTU to develop AI solutions for demand forecasting and inventory optimization. Professor Jagath and his team is currently working on the topic, and we would like to explore the new deep learning methodology, leading to a research paper and high academic performance thorughout CE7454.
 
-# Time
-Thursday, 4:30 - 7:30 pm (from August 12)
+---
 
-# Prerequisite
-Machine Learning (CE4041)
+## Potential topics
+**Topic 1: Learning representation for Time Series Clustering**
 
-# Textbook
-Deep Learning, by Ian Goodfellow and Yoshua Bengio and Aaron Courville:
-Deep Learning
-pdf version can be found here: https://github.com/janishar/mit-deep-learning-book-pdf
-Also attached.
+Benchmark paper: Qianli et al 2019
+Topic 2: Graph neural networks for multivariate forecasting
 
-# Lectures
-Lecture 1 - Introduction to Deep Learning - Linear Algebra
+Benchmark paper: Zonghan et al 2020
+*Papers can be found in paper folder in this repo
 
-Lecture 2 - Probability and Information Theory
+---
 
-Lecture 3 - Vanilla Neural Networks - Loss and Optimization
+## Paper
+Data used for this research project is protected by Resaerch Collaboration Agreement between BD-NTU, therefore BD resevers right to approve any publications. Therefore it is advised to also explore other datasets used to implement our proposing methodologies.
 
-Lecture 4 - Multi-Layer Perceptron - Inference and Learning
-
-Lecture 5 - Convolutional Neural Networks - Inference and Learning
-
-Lecture 6 - Convolutional Neural Networks - Regularization
-
-Lecture 7 - Visualizing Convolutional Neural Networks
-
-----recess week----
-
-Lecture 8 - Recurrent Neural Networks
-
-Lecture 9 - Attention and Transformers
-
-Lecture 10 - Deep Structured Prediction
-
-Lecture 11 - Autoencoders
-
-Lecture 12 - Deep Generative Models
-
-Lecture 13 - Unsupervised Representation Learning
-
-# Evaluation
-Quiz (20%): deep learning basics - 30min 
-(date: recess week)
-
-Project 1 (30%): fashion attributes - 4-page report (CVPR format), individual 
-(start date: Sept. 6, 2021, due date: Oct. 18, 2021)
-
-Project 2 (40%): free topic - 4-page report (CVPR format), group of 3-5
-(start date: any time, due date: Nov. 22, 2021)
-
-Oral Presentations (10%): 5-min recorded video for each group
-(start date: any time, due date: Nov. 22, 2021)
-
-# TA
-Mr. Lan Yushi (help with the office hour, quiz and projects)
-TA's Email: yushi001@e.ntu.edu.sg
+Although there is no limitation to the number of co-authors on the paper we plan, it can be important to have a consensus prior to our works to ensure all of us have contributed in significant ways and can actually qualify to be a co-author.
