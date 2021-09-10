@@ -6,5 +6,5 @@
 #### Actions
 - Suhwan/Aron/Jay to build data loader.py pipeline (Data folder) to extract 500 listed companies (S&P) for 5 years of adjusted closing price
   - Perform exploratory data analysis including summary statistics, distribution of data, any noticeable patterns, etc
-- Chun Hung to deploy the data using the exising code
+- Chun Hung to deploy the stock data using the exising code
 - Pasquale to deep dive into the methodologies to explore areas of improvements
