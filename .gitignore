@@ -1,0 +1,18 @@
+*.pyc
+**/.ipynb_checkpoints/
+**/__pycache__/
+
+lab/
+*.tgz
+*.tar.bz2
+*.tar.gz
+*.json
+*.pdf
+*.pptx
+
+# MISC
+.DS_Store
+.nfs*
+.vscode
+__pycache__
+nohup.out
